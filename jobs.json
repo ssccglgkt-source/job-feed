@@ -1,1 +1,503 @@
-{"updated":null,"jobs":[]}
+{
+ "updated": "2026-11-21T13:54:38.188577Z",
+ "jobs": [
+  {
+   "title": "Examination Calendar",
+   "url": "https://upsc.gov.in/examination-calendar/",
+   "source": "UPSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Active Examinations",
+   "url": "https://upsc.gov.in/active-examinations/",
+   "source": "UPSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Status of Lateral Recruitment Cases (Advertisement-wise)",
+   "url": "https://upsc.gov.in/",
+   "source": "UPSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Recruitment cases kept on hold on account of Pending Litigations",
+   "url": "https://upsc.gov.in/status-of-lateral-recruitment-cases-advertisement-wise/recruitment-cases-kept-on-hold-on-account-of-pending-litigations/",
+   "source": "UPSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Online Recruitment Application (ORA)open_in_new",
+   "url": "https://upsconline.nic.in/",
+   "source": "UPSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Recruitment cases kept on hold on account of Pending Litigations",
+   "url": "https://upsc.gov.in/status-of-recruitment-cases-advertisement-wise/recruitment-cases-kept-on-hold-on-account-of-pending-litigations/",
+   "source": "UPSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Schedule for Recruitment Tests and Interviews",
+   "url": "https://upsc.gov.in/recruitment-tests/schedule-for-recruitment-tests-and-interviews/",
+   "source": "UPSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Recruitment Representation on Question Papers",
+   "url": "https://upsc.gov.in/recruitment-representation-on-question-papers/",
+   "source": "UPSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Online Application",
+   "url": "https://bpsconline.bihar.gov.in/candidate/login",
+   "source": "BPSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice :- Regarding Postponement of 72nd CCE (Preliminary) Competitive Examination.",
+   "url": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Regarding_postpone_72nd_BPSC_BPSC-20260720-u768lx.pdf",
+   "source": "BPSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Corrigendum: Integrated 72nd Combined (Preliminary) Competitive Examination – Reduction of 2 Vacancies of Deputy Superintendent of Police (BPS).",
+   "url": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Corrigendum-72nd-CCE-Reduction-of-2-posts-of-BPS_BPSC-20260903-23e57k.pdf",
+   "source": "BPSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice: Date of Commencement of Examination for the Post of Stenographer in Bihar Public Service Commission, Patna. (Advt. No. 01/2026)",
+   "url": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Important-Notice-Date-of-012026-Stenographer-BPSC-Exam_BPSC-20260420-zj3eyx.pdf",
+   "source": "BPSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Corrigendum: Integrated 72nd Combined (Preliminary) Competitive Examination – Deletion of 44 Vacancies of Sugarcane Officer.",
+   "url": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Corrigendum-Integrated-72nd-CCE-Pre-Advt.-44-vacancies-of-Sugarcane-Officer-deleted_BPSC-20260506-0jupsy.pdf",
+   "source": "BPSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice: Regarding Introduction of 5th Answer Option ‘E’ in MCQ based examinations to be conducted by BPSC.",
+   "url": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Kaagaz_20260502_160639877178_BPSC-20260502-zjmn51.pdf",
+   "source": "BPSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice:- Advertisement for the Posts of Assistant Professor in various Departments (Speciality) of State Medical College & Hospitals has been cancelled. (Advt. Nos. 04/2025 to 28/2025)",
+   "url": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Important-Notice-04-282025-Advertisement-cancelled_BPSC-20261029-wh9ep8.pdf",
+   "source": "BPSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Facility to Candidates to update data in Profile Tab in Online Application System.",
+   "url": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/NB-2025-06-10-01.pdf",
+   "source": "BPSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice-Ref.:Advt. No.-05/2025: Regarding Cancellation of Mains Written Examination",
+   "url": "https://bpssc.bihar.gov.in/Notices/Exam Cancel Pdf.pdf",
+   "source": "BPSSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice-Ref.:Advt. No.-05/2025: Regarding Physical Efficiency Test, E-Admit Card and Document Verification for the Post of Police Sub-Inspector in Home (Police) Dept., Govt. of Bihar",
+   "url": "https://bpssc.bihar.gov.in/Notices/Important Notice for PET.pdf",
+   "source": "BPSSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Result-Ref.:Advt. No.-04/2026: Result of Preliminary Written Examination for the Post of Assistant Sub-Inspector (Operation) in Bihar Police Radio (Wireless), Govt. of Bihar",
+   "url": "https://bpssc.bihar.gov.in/Notices/Advt_042026_PRELIMS_Result_Publish_12082026.pdf",
+   "source": "BPSSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice-Ref.:Advt. No.-07/2026: Regarding Postponement of Examination",
+   "url": "https://bpssc.bihar.gov.in/Notices/Notice for postponement of examination.pdf",
+   "source": "BPSSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Link-Ref.:Advt. No.-07/2026: Download E-Admit Card of Preliminary Written Examination for the Post of Assistant Sub-Inspector (Technical) in Bihar Police Radio (Wireless), Govt. of Bihar",
+   "url": "https://apply-bpssc.com/bpssc_7_2026_weadmitcards_v3/applicationIndex",
+   "source": "BPSSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Ref.:Advt. No.-09/2026: Apply Online for the Post of Police Sub-Inspector (General Closed Cadre) in Special Branch under Home (Police) Dept., Govt. of Bihar",
+   "url": "https://apply-bpssc.com/bpssc_sicadre_9_2026/applicationIndex",
+   "source": "BPSSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Link-Ref.:Advt. No.-04/2026: Download E-Admit Card of Preliminary Written Examination for the Post of Assistant Sub-Inspector (Operation) in Bihar Police Radio (Wireless), Govt. of Bihar",
+   "url": "https://apply-bpssc.com/bpssc_4_2026_weadmitcards_v1/applicationIndex",
+   "source": "BPSSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Result-Ref.:Advt. No.-05/2025: Result of Mains Written Examination for the Post of Police Sub-Inspector in Home (Police) Dept., Govt. of Bihar",
+   "url": "https://bpssc.bihar.gov.in/Notices/Result Mains 05-25_Publish.pdf",
+   "source": "BPSSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Ref.:Advt. No.-07/2026: Apply Online for the Post of Assistant Sub-Inspector (Technical) in Bihar Police Radio (Wireless), Govt. of Bihar",
+   "url": "https://apply-bpssc.com/bpssc_asi_tech_7_26_v1/applicationIndex",
+   "source": "BPSSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Link-Ref.:Advt. No.-05/2025: Download Admit Card of Mains Written Examination for the Post of Police Sub-Inspector in Home (Police) Dept., Govt. of Bihar",
+   "url": "https://apply-bpssc.com/bpssc_5_25_mainsweadmtcards_v1/applicationIndex",
+   "source": "BPSSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice-Ref.:Advt. No.-05/2025: Centre List of Candidates according to Roll No. of Mains Written Examination for the Post of Police Sub-Inspector in Home (Police) Dept., Govt. of Bihar",
+   "url": "https://bpssc.bihar.gov.in/Notices/BPSSC_5_25_CENTRELIST_mains_final.pdf",
+   "source": "BPSSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice-Ref.:Advt. No.-05/2025: Regarding Mains Written Examination and E-Admit Card for the Post of Police Sub-Inspector in Home (Police) Dept., Govt. of Bihar",
+   "url": "https://bpssc.bihar.gov.in/Notices/Notice on Website 1.pdf",
+   "source": "BPSSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice-Ref.:Advt. No.-05/2025: Regarding Mains Written Examination",
+   "url": "https://bpssc.bihar.gov.in/Notices/Notice.pdf",
+   "source": "BPSSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Result-Ref.:Advt. No.-05/2025: Result of Preliminary Written Examination for the Post of Police Sub-Inspector in Home (Police) Dept., Govt. of Bihar",
+   "url": "https://bpssc.bihar.gov.in/Notices/Advt. No. 052025 PSI_prelims result 16032026_upload.pdf",
+   "source": "BPSSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Application Link-Ref.:Advt. No.-04/2026: Apply Online for the Post of Assistant Sub-Inspector (Operation) in Bihar Police Radio (Wireless), Govt. of Bihar",
+   "url": "https://apply-bpssc.com/bpssc_asi_op_4_26_v1/applicationIndex",
+   "source": "BPSSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Link-Ref.:Advt. No.-05/2025: Download Admit Card of Preliminary Written Examination for the post of Police Sub-Inspector in Home (Police) Dept., Govt. of Bihar",
+   "url": "https://apply-bpssc.com/bpssc525weadmitcards/applicationIndex",
+   "source": "BPSSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice-Ref.:Advt. No.-05/2025: Regarding Preliminary Written Examination and E-Admit Card for the post of Police Sub-Inspector in Home (Police) Dept., Govt. of Bihar",
+   "url": "https://bpssc.bihar.gov.in/Notices/Regarding E-Admit card website.pdf",
+   "source": "BPSSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Application Link-Ref.:Advt. No.-05/2025: Apply Online for the post of Police Sub-Inspector in Home (Police) Dept., Govt. Of Bihar.",
+   "url": "https://apply-bpssc.com/bpssc_si_5_25_v1/applicationIndex",
+   "source": "BPSSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice: Information Regarding Preliminary Written Examination and Downloading of E-Admit Card for the Post of Enforcement Sub-Inspector in Transport Dept., Govt. of Bihar",
+   "url": "https://bpssc.bihar.gov.in/Notices/E Admit Card download.pdf",
+   "source": "BPSSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Final Results: For the post of Steno Assistant Sub-Inspector in Home (Police) Dept., Govt. of Bihar",
+   "url": "https://bpssc.bihar.gov.in/Notices/Final Result 01-24 pdf.pdf",
+   "source": "BPSSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Result: Result of Eligibility Test for the post of Steno Assistant Sub-Inspector in Home (Police) Dept., Govt. of Bihar",
+   "url": "https://bpssc.bihar.gov.in/Notices/Eligibility Test Result pdf.pdf",
+   "source": "BPSSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice: Download Admit Card of Eligibility Test for the post of Steno Assistant Sub-Inspector in Home (Police) Dept., Govt. of Bihar",
+   "url": "https://apply-bpssc.com/StenoTypingAdmitcards124/applicationIndex",
+   "source": "BPSSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice: Important Instructions regarding Eligibility Test, E-Admit Card & Document Verification of Advt. No. - 01/2024",
+   "url": "https://bpssc.bihar.gov.in/Notices/Notice of ASI Steno Main E-Admit card on website.pdf",
+   "source": "BPSSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Result: Result of Written Examination for the post of Steno Assistant Sub-Inspector in Home (Police) Dept., Govt. of Bihar",
+   "url": "https://bpssc.bihar.gov.in/Notices/Result Written exam 01-24 -11032025.pdf",
+   "source": "BPSSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice: Download Admit Card of Written Examination for the post of Steno Assistant Sub-Inspector in Home (Police) Dept., Govt. of Bihar",
+   "url": "https://apply-bpssc.com/StenoAsiWEAdmit124/applicationIndex",
+   "source": "BPSSC",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Results: Final Selection List of Candidates for the Post of Constable (General Duty Close Cadre) in Special Branch of Bihar Police .",
+   "url": "https://csbc.bihar.gov.in/Advt/Results-01-2026-Final-09-10-2026.pdf",
+   "source": "CSBC Bihar",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice: Regarding Confirmation of Selection of Candidates, who were Provisionally Selected in Final Results Published on 27.05.2026.",
+   "url": "https://csbc.bihar.gov.in/Advt/Notice-01-2025-Provisionally Selected-25-09-2026.pdf",
+   "source": "CSBC Bihar",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice: Download Admit Card for PST of Special Branch Constable (Close Cadre) of Advt. No. 01/2026",
+   "url": "https://apply-csbc.com/csbc_12026_pstadmitcard/applicationIndex",
+   "source": "CSBC Bihar",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Results: Written Examination Results for Shortlisting of Candidates for PET for the Post of Constable (Operator) in Bihar Police.",
+   "url": "https://csbc.bihar.gov.in/Advt/Results-02-2026-PET-18-08-2026.pdf",
+   "source": "CSBC Bihar",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Results: Written Examination Results for Shortlisting of Candidates for PST for the Post of Constable (General Duty Close Cadre) in Special Branch of Bihar Police .",
+   "url": "https://csbc.bihar.gov.in/Advt/Results-01-2026-PST-18-08-2026.pdf",
+   "source": "CSBC Bihar",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice: Download e-Admit-Card of Driving Efficiency Test (DET) for the Post of Driver Constable in Bihar Police.",
+   "url": "https://apply-csbc.com/csbc_det_admitcards/applicationIndex",
+   "source": "CSBC Bihar",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice: Regarding Confirmation of Selection of Candidates, who were Provisionally Selected in Final Results Published on 27.05.2026.",
+   "url": "https://csbc.bihar.gov.in/Advt/Notice-01-2025-Provisionally Selected-22-07-2026.pdf",
+   "source": "CSBC Bihar",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice: Regarding Rebuttal of Fake News Related to Prohibition Constable, Jail Warder & Mobile Squad Constable Recruitment",
+   "url": "https://csbc.bihar.gov.in/Advt/Notice-03-2025-Rebuttal-FakeNews-16-06-2026.pdf",
+   "source": "CSBC Bihar",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice: Click Here to Know Your Examination Details & Download e-Admit Card.",
+   "url": "https://apply-csbc.com/csbc_2_2026_weadmitcards/applicationIndex",
+   "source": "CSBC Bihar",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice: Click Here to Know Your Examination Details & Download e-Admit Card.",
+   "url": "https://apply-csbc.com/csbc_12026_weadmitcard/applicationIndex",
+   "source": "CSBC Bihar",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Results: Final Selection List of Candidates for the Post of Constable in Bihar Police.",
+   "url": "https://csbc.bihar.gov.in/Advt/Results-01-2025-Final-27-05-2026.pdf",
+   "source": "CSBC Bihar",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice: Regarding Change in Date of Written Examination & e-Admit Card for the Post of Constable (Operator) in Bihar Police.",
+   "url": "https://csbc.bihar.gov.in/Advt/Notice-02-2026-Change-in-ExamDate-26-05-2026.pdf",
+   "source": "CSBC Bihar",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice: Regarding Written Examination & e-Admit Card for the Post of Constable (General Duty Close Cadre) in Special Branch of Bihar Police.",
+   "url": "https://csbc.bihar.gov.in/Advt/Notice-01-2026-e-AdmitCard&Exam-20-05-2026.pdf",
+   "source": "CSBC Bihar",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice: Regarding Written Examination & e-Admit Card for the Post of Constable (Operator) in Bihar Police.",
+   "url": "https://csbc.bihar.gov.in/Advt/Notice-02-2026-e-AdmitCard&Exam-20-05-2026.pdf",
+   "source": "CSBC Bihar",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Results: List of Successful Candidates in the Physical Efficiency Test (PET) and those Qualified for the Driving Efficiency Test (DET) for the Post of Driver Constable in Bihar Police.",
+   "url": "https://csbc.bihar.gov.in/Advt/Results-02-2025-PET-28-04-2026.pdf",
+   "source": "CSBC Bihar",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice: Regarding Fake News Related to Driver Constable Recruitment",
+   "url": "https://csbc.bihar.gov.in/Advt/Notice-09-04-2026-Reg. Fake News.pdf",
+   "source": "CSBC Bihar",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice: Regarding Fake News Related to Constable Recruitment",
+   "url": "https://csbc.bihar.gov.in/Advt/Notice-19-03-2026-Reg. Fake News.pdf",
+   "source": "CSBC Bihar",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice: Apply Online for the Post of Constable (Operator) in Bihar Police.",
+   "url": "https://apply-csbc.com/csbc_ct_operator_2_26_final/applicationIndex",
+   "source": "CSBC Bihar",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice: Download e-Admit-Card of Physical Efficiency Test (PET) for the Post of Driver Constable in Bihar Police.",
+   "url": "https://apply-csbc.com/csbc__driv_225_physical_admit_v1/applicationIndex",
+   "source": "CSBC Bihar",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice: Apply Online for the Post of Constables (General Duty Close Cadre) in Special Branch of Bihar Police.",
+   "url": "https://apply-csbc.com/CSBC_CT_01_2026_V1/applicationIndex",
+   "source": "CSBC Bihar",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice: Regarding Application Submitted by the Candidates after Publication of Written Exam Results and Related to Physical Efficiency Test (PET) for the Post of Constable in Bihar Police",
+   "url": "https://csbc.bihar.gov.in/Advt/Notice-30-01-2025-01-2025.pdf",
+   "source": "CSBC Bihar",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Results: Written Examination Results for Shortlisting of Candidates for PET for Post of Driver Constable in Bihar Police.",
+   "url": "https://csbc.bihar.gov.in/Advt/Results-02-2025-Written-Exam-for-PET.pdf",
+   "source": "CSBC Bihar",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice: Regarding Written Examination e-Admit-Card for the Post of Driver Constable in Bihar Police.",
+   "url": "https://csbc.bihar.gov.in/Advt/Notice -02-12-2025.pdf",
+   "source": "CSBC Bihar",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice: Download e-Admit-Card of Physical Efficiency Test (PET) for the Post of Constable in Bihar Police.",
+   "url": "https://apply-csbc.com/csbc_125_petadmitcards/applicationIndex",
+   "source": "CSBC Bihar",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Important Notice: Click here to Know Your Examination Details and Download e-Admit Card.",
+   "url": "https://apply-csbc.com/csbc_0225_weadmit/applicationIndex",
+   "source": "CSBC Bihar",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Result Status of Online Main Examination for CRP-PO/MTs-XVI",
+   "url": "http://ibpsreg.ibps.in/crppoxvijun26/fresta_nov26/login.php?appid=faa539a0e8fbd226743a6f2df8768c59",
+   "source": "IBPS",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Notification for Common Recruitment Process for CRP- PO/MTs-XVI",
+   "url": "https://www.ibps.in/wp-content/uploads/Detailed-Notification_CRP-PO-XVI_Final_V1_30.06.2026.pdf",
+   "source": "IBPS",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "MANIT Recruitment of various Group ‘B’ & ‘C’ Non-Teaching Positions Registration From 13-Nov-2026",
+   "url": "https://ibpsreg.ibps.in/manitboct26/",
+   "source": "IBPS",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "BPCL Special Recruitment Drive for Persons with Benchmark Disabilities (PwBDs)/ Divyangjans Registration From 09-Nov-2026",
+   "url": "https://ibpsreg.ibps.in/bpcljul26/",
+   "source": "IBPS",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "JKB Recruitment of Various Posts Registration From 07-Nov-2026",
+   "url": "https://ibpsreg.ibps.in/jkbvpocto26/",
+   "source": "IBPS",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Indian Bank Engagement of Apprentices Registration From 05-Nov-2026",
+   "url": "https://ibpsreg.ibps.in/inbraoct26/",
+   "source": "IBPS",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "SBI Recruitment of Specialist Cadre Officers (Manager (Security) / Deputy Manager (Security)) Registration From 04-Nov-2026",
+   "url": "https://ibpsreg.ibps.in/sbirscooct26/",
+   "source": "IBPS",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "SBI Recruitment of Specialist Cadre Officer (Assistant Manager -Engineer (Fire)) Registration From 04-Nov-2026",
+   "url": "https://ibpsreg.ibps.in/sbiameoct26/",
+   "source": "IBPS",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "RECRUITMENT EXAMS",
+   "url": "https://www.ibps.in/index.php/recruitment/",
+   "source": "IBPS",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Personnel Selection Services for Recruitment, Promotion and Placement",
+   "url": "https://www.ibps.in/index.php/services",
+   "source": "IBPS",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Recruitment Results",
+   "url": "https://sbi.co.in/web/careers/recruitment-results",
+   "source": "SBI",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Recruitment Results & Archive",
+   "url": "https://sbi.co.in/web/careers/recruitment-results-archive",
+   "source": "SBI",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "VacanciesVacancies",
+   "url": "https://www.indiapost.gov.in/vacancies",
+   "source": "India Post",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Gazette NotificationsGazette Notifications",
+   "url": "https://www.indiapost.gov.in/documents/gazzettenotifications",
+   "source": "India Post",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Recruitment RulesRecruitment Rules",
+   "url": "https://www.indiapost.gov.in/documents/recruitmentrules",
+   "source": "India Post",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Notification regarding extension of Dhai Dkhar letter writing competition 2026-27 (opens in a new tab)",
+   "url": "https://www.indiapost.gov.in/api/documents/file/103oj5x2hxq90k5cp3juh207i863cva60s5le3k9qj0ab6a08hnf01ff600gzm",
+   "source": "India Post",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Recruitment Agencies/International Employer",
+   "url": "https://emigrate.gov.in/#/emigrate/emigrant/list-of-active-ra",
+   "source": "NCS",
+   "first_seen": "2026-11-21"
+  }
+ ]
+}
