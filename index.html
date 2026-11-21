@@ -1,0 +1,34 @@
+<!DOCTYPE html><html lang="hi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sarkari Job Feed</title>
+<style>
+:root{--bg:#f6f7fb;--c:#fff;--t:#1b1f2a;--m:#5d6475;--b:#e1e4ee;--a:#2f5bea}
+@media(prefers-color-scheme:dark){:root{--bg:#12141b;--c:#1b1f2a;--t:#eceef5;--m:#a2a9ba;--b:#2c3242;--a:#7c9bff}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--t);font-family:system-ui,sans-serif;line-height:1.45}
+.w{max-width:800px;margin:0 auto;padding:14px}h1{font-size:1.35rem;margin:6px 0}
+input,select{padding:10px;border-radius:9px;border:1px solid var(--b);background:var(--c);color:var(--t);font-size:1rem;width:100%;margin-bottom:8px}
+.tabs{display:flex;gap:8px;margin:10px 0}.tabs button{flex:1;padding:10px;border:1px solid var(--b);background:var(--c);color:var(--t);border-radius:9px;font-size:1rem;cursor:pointer}
+.tabs .on{background:var(--a);color:#fff;border-color:var(--a)}
+.i{background:var(--c);border:1px solid var(--b);border-radius:12px;padding:11px;margin-bottom:8px}
+.i a{color:var(--t);text-decoration:none;font-weight:600}.s{color:var(--m);font-size:.8rem;margin-top:3px}
+.n{background:#d9480f;color:#fff;border-radius:6px;padding:1px 6px;font-size:.7rem;margin-right:6px}
+h2{font-size:1rem;margin:16px 0 6px}.g a{display:inline-block;margin:0 6px 6px 0;padding:7px 11px;border:1px solid var(--b);border-radius:99px;background:var(--c);color:var(--a);text-decoration:none;font-size:.88rem}
+</style></head><body><div class="w"><h1>🇮🇳 Sarkari Job Feed</h1><div class="s" id="up"></div>
+<div class="tabs"><button id="t1" class="on" onclick="tab(1)">Latest Notices</button><button id="t2" onclick="tab(2)">Sab Sites</button></div>
+<div id="p1"><input id="q" placeholder="Search: SSC, railway, bank, police..." oninput="show()"><select id="so" onchange="show()"><option value="">Sab sources</option></select><div id="l"></div></div>
+<div id="p2" hidden></div>
+<div class="s" style="margin-top:14px">Ye list official sites se apne aap nikali jaati hai. Apply karne se pehle official notification zaroor padho.</div></div>
+<script>
+var D=[];function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
+var G={"Aggregator sites (link only)":[["SarkariResult","https://www.sarkariresult.com/"],["FreeJobAlert","https://www.freejobalert.com/"],["SarkariExam","https://www.sarkariexam.com/"],["FreshersLive","https://www.fresherslive.com/"],["Sarkari-Naukri","https://www.sarkari-naukri.in/"],["Employment News","https://employmentnews.gov.in/"],["IndGovtJobs","https://www.indgovtjobs.in/"],["JobSarkari","https://www.jobsarkari.com/"],["RojgarResult","https://www.rojgarresult.com/"]],
+"Official govt sites":[["SSC","https://ssc.gov.in/"],["UPSC","https://upsc.gov.in/"],["BPSC","https://bpsc.bihar.gov.in/"],["BPSSC","https://bpssc.bihar.gov.in/"],["CSBC Bihar","https://csbc.bihar.gov.in/"],["RRB Apply","https://rrbapply.gov.in/"],["RRC","https://www.rrcb.gov.in/"],["IBPS","https://www.ibps.in/"],["SBI","https://sbi.co.in/web/careers"],["RBI","https://opportunities.rbi.org.in/"],["NABARD","https://www.nabard.org/careers-notices1.aspx"],["India Post","https://www.indiapost.gov.in/"],["Army","https://joinindianarmy.nic.in/"],["Navy","https://joinindiannavy.gov.in/"],["Coast Guard","https://www.joinindiancoastguard.cdac.in/"],["NCS","https://www.ncs.gov.in/"],["Apprenticeship India","https://www.apprenticeshipindia.gov.in/"],["NATS","https://www.nats.education.gov.in/"]],
+"Private jobs":[["Naukri","https://www.naukri.com/"],["Indeed","https://in.indeed.com/"],["LinkedIn","https://www.linkedin.com/jobs/"],["foundit","https://www.foundit.in/"],["Shine","https://www.shine.com/"],["Apna","https://apna.co/"],["WorkIndia","https://www.workindia.in/"],["Freshersworld","https://www.freshersworld.com/"],["Internshala","https://internshala.com/"],["TimesJobs","https://www.timesjobs.com/"],["Glassdoor","https://www.glassdoor.co.in/"],["PlacementIndia","https://www.placementindia.com/"],["Cutshort","https://www.cutshort.io/"],["Wellfound","https://wellfound.com/"],["Hirist","https://hirist.tech/"],["IIMJobs","https://www.iimjobs.com/"],["Instahyre","https://www.instahyre.com/"],["JobHai","https://www.jobhai.com/"],["Quikr Jobs","https://www.quikr.com/jobs"],["Jooble","https://www.jooble.org/"]]};
+document.getElementById("p2").innerHTML=Object.keys(G).map(function(k){return"<h2>"+k+'</h2><div class="g">'+G[k].map(function(x){return'<a href="'+x[1]+'" target="_blank" rel="noopener">'+x[0]+"</a>"}).join("")+"</div>"}).join("");
+function tab(n){for(var i=1;i<3;i++){document.getElementById("p"+i).hidden=i!=n;document.getElementById("t"+i).className=i==n?"on":""}}
+function show(){var q=document.getElementById("q").value.toLowerCase(),s=document.getElementById("so").value,now=Date.now();
+var r=D.filter(function(j){return(!s||j.source==s)&&(!q||(j.title+j.source).toLowerCase().indexOf(q)>-1)});
+document.getElementById("l").innerHTML=r.length?r.map(function(j){var nw=now-new Date(j.first_seen)<2*864e5+864e5;
+return'<div class="i">'+(nw?'<span class="n">NEW</span>':"")+'<a href="'+esc(j.url)+'" target="_blank" rel="noopener">'+esc(j.title)+'</a><div class="s">'+esc(j.source)+" • "+j.first_seen+"</div></div>"}).join(""):'<div class="s">Abhi koi notice nahi mila. Pehli baar GitHub Actions chalane ke baad yahan list aayegi.</div>'}
+fetch("jobs.json?"+Date.now()).then(function(r){return r.json()}).then(function(d){D=d.jobs;
+document.getElementById("up").textContent=d.updated?"Last update: "+new Date(d.updated).toLocaleString("en-IN"):"";
+var so=document.getElementById("so");Array.from(new Set(D.map(function(j){return j.source}))).sort().forEach(function(x){so.add(new Option(x,x))});show()}).catch(function(){show()});
+</script></body></html>
