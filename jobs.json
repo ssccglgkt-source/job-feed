@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T00:57:22.786724Z",
+ "updated": "2026-11-24T07:04:37.317874Z",
  "jobs": [
   {
    "title": "Notification for Common Recruitment Process for CRP- SPL-XVI",
@@ -482,12 +482,6 @@
    "first_seen": "2026-11-21"
   },
   {
-   "title": "Recruitment Agencies/International Employer",
-   "url": "https://emigrate.gov.in/#/emigrate/emigrant/list-of-active-ra",
-   "source": "NCS",
-   "first_seen": "2026-11-21"
-  },
-  {
    "title": "VacanciesVacancies",
    "url": "https://www.indiapost.gov.in/vacancies",
    "source": "India Post",
@@ -509,6 +503,12 @@
    "title": "Notification regarding extension of Dhai Akhar letter writing competition 2026-27 (opens in a new tab)",
    "url": "https://www.indiapost.gov.in/api/documents/file/103oj5x2hxq90k5cp3juh207i863cva60s5le3k9qj0ab6a08hnf01ff600gzm",
    "source": "India Post",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Recruitment Agencies/International Employer",
+   "url": "https://emigrate.gov.in/#/emigrate/emigrant/list-of-active-ra",
+   "source": "NCS",
    "first_seen": "2026-11-21"
   }
  ]
