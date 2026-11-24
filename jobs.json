@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T07:04:37.317874Z",
+ "updated": "2026-11-24T13:04:22.641322Z",
  "jobs": [
   {
    "title": "Notification for Common Recruitment Process for CRP- SPL-XVI",
@@ -11,6 +11,18 @@
    "title": "Window Notification for CRP-PO/MTs -XVI and SPL-XVI",
    "url": "https://www.ibps.in/wp-content/uploads/PO_SPL_Combined_Window_CRP-XVI.pdf",
    "source": "IBPS",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "RECRUITMENT RESULTS",
+   "url": "https://sbi.co.in/en/web/careers/recruitment-results",
+   "source": "SBI",
+   "first_seen": "2026-11-24"
+  },
+  {
+   "title": "RECRUITMENT ARCHIVE",
+   "url": "https://sbi.co.in/en/web/careers/recruitment-results-archive",
+   "source": "SBI",
    "first_seen": "2026-11-24"
   },
   {
