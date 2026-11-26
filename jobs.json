@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:59:19.365855Z",
+ "updated": "2026-11-26T07:06:04.045873Z",
  "jobs": [
   {
    "title": "Document Verification Program: Integrated 71st Combined Competitive Examination",
@@ -464,6 +464,12 @@
    "first_seen": "2026-11-21"
   },
   {
+   "title": "Recruitment Agencies/International Employer",
+   "url": "https://emigrate.gov.in/#/emigrate/emigrant/list-of-active-ra",
+   "source": "NCS",
+   "first_seen": "2026-11-21"
+  },
+  {
    "title": "VacanciesVacancies",
    "url": "https://www.indiapost.gov.in/vacancies",
    "source": "India Post",
@@ -485,12 +491,6 @@
    "title": "Notification regarding extension of Dhai Akhar letter writing competition 2026-27 (opens in a new tab)",
    "url": "https://www.indiapost.gov.in/api/documents/file/103oj5x2hxq90k5cp3juh207i863cva60s5le3k9qj0ab6a08hnf01ff600gzm",
    "source": "India Post",
-   "first_seen": "2026-11-21"
-  },
-  {
-   "title": "Recruitment Agencies/International Employer",
-   "url": "https://emigrate.gov.in/#/emigrate/emigrant/list-of-active-ra",
-   "source": "NCS",
    "first_seen": "2026-11-21"
   }
  ]
