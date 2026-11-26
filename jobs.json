@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-26T07:06:04.045873Z",
+ "updated": "2026-11-26T13:07:30.191102Z",
  "jobs": [
+  {
+   "title": "Online Pre-Examination Training for Candidates who Opted for PET under CRP- RRBs-XV",
+   "url": "https://www.ibps.in/index.php/rural-bank-xv/",
+   "source": "IBPS",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "title": "SBI Recruitment of Specialist Cadre Officers (Manager (Security) / Deputy Manager (Security)) Registration From 04-Nov-2026",
+   "url": "https://ibpsreg.ibps.in/sbirscooct26/",
+   "source": "IBPS",
+   "first_seen": "2026-11-26"
+  },
+  {
+   "title": "SBI Recruitment of Specialist Cadre Officer (Assistant Manager -Engineer (Fire)) Registration From 04-Nov-2026",
+   "url": "https://ibpsreg.ibps.in/sbiameoct26/",
+   "source": "IBPS",
+   "first_seen": "2026-11-26"
+  },
   {
    "title": "Document Verification Program: Integrated 71st Combined Competitive Examination",
    "url": "https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/DV-Program-Integrated-71st-CCE_BPSC-20261118-vwk9rz.pdf",
@@ -30,18 +48,6 @@
    "url": "https://ibpsreg.ibps.in/sbifteoct26/",
    "source": "IBPS",
    "first_seen": "2026-11-25"
-  },
-  {
-   "title": "Notification for Common Recruitment Process for CRP- SPL-XVI",
-   "url": "https://www.ibps.in/wp-content/uploads/Detailed-Notification-CRP-SPL-XVI_Final_V1_30.06.2026.pdf",
-   "source": "IBPS",
-   "first_seen": "2026-11-24"
-  },
-  {
-   "title": "Window Notification for CRP-PO/MTs -XVI and SPL-XVI",
-   "url": "https://www.ibps.in/wp-content/uploads/PO_SPL_Combined_Window_CRP-XVI.pdf",
-   "source": "IBPS",
-   "first_seen": "2026-11-24"
   },
   {
    "title": "Examination Calendar",
@@ -464,12 +470,6 @@
    "first_seen": "2026-11-21"
   },
   {
-   "title": "Recruitment Agencies/International Employer",
-   "url": "https://emigrate.gov.in/#/emigrate/emigrant/list-of-active-ra",
-   "source": "NCS",
-   "first_seen": "2026-11-21"
-  },
-  {
    "title": "VacanciesVacancies",
    "url": "https://www.indiapost.gov.in/vacancies",
    "source": "India Post",
@@ -491,6 +491,12 @@
    "title": "Notification regarding extension of Dhai Akhar letter writing competition 2026-27 (opens in a new tab)",
    "url": "https://www.indiapost.gov.in/api/documents/file/103oj5x2hxq90k5cp3juh207i863cva60s5le3k9qj0ab6a08hnf01ff600gzm",
    "source": "India Post",
+   "first_seen": "2026-11-21"
+  },
+  {
+   "title": "Recruitment Agencies/International Employer",
+   "url": "https://emigrate.gov.in/#/emigrate/emigrant/list-of-active-ra",
+   "source": "NCS",
    "first_seen": "2026-11-21"
   }
  ]
